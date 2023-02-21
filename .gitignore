@@ -1,4 +1,4 @@
-﻿#############
+#############
 ## Idea
 #############
 target/
@@ -7,9 +7,10 @@ target/
 .repository/
 *.iml
 *.iws
-*.java
 *.class
 *.info
+*.java
+*.jrtc
 *.properties
 *.jar
 /out/
