@@ -9,8 +9,6 @@ target/
 *.iws
 *.class
 *.info
-*.java
-*.jrtc
 *.properties
 *.jar
 /out/
